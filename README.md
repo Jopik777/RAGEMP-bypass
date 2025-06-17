@@ -6,9 +6,7 @@
 📌 Инструкция по использованию:
 Поместите файл байпаса в директорию, где находится EasyAntiCheat_EOS_Setup.exe. Обычно путь выглядит так:
 
-swift
-Копировать
-Редактировать
+
 .../RAGEMP/EasyAntiCheat/
 Запустите лаунчер RAGE:MP, но не нажимайте "Подключиться" к серверу.
 
@@ -34,9 +32,7 @@ Bypass должен запускаться только при активном 
 📌 How to use:
 Place the bypass file in the same directory as EasyAntiCheat_EOS_Setup.exe. Typically, the path is:
 
-swift
-Копировать
-Редактировать
+
 .../RAGEMP/EasyAntiCheat/
 Launch the RAGE:MP launcher, but do not click "Connect" to the server yet.
 
